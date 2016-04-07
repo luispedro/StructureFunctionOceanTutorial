@@ -1,5 +1,13 @@
 # Structure and Function of the Ocean Microbime Tutorial
 
+Using binder
+------------
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/luispedro/StructureFunctionOceanTutorial)
+
+Using SageMathCloud
+-------------------
+
 How to use this in the sage math cloud infrastructure
 
 1. Go to [cloud.sagemath.com](https://cloud.sagemath.com)
