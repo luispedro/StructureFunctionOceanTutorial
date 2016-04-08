@@ -1,4 +1,4 @@
-# Structure and Function of the Ocean Microbime Tutorial
+# Structure and Function of the Ocean Microbiome Tutorial
 
 Using binder
 ------------
@@ -16,3 +16,5 @@ How to use this in the sage math cloud infrastructure
 4. On the terminal box type
     `git clone https://www.github.com/luispedro/StructureFunctionOceanTutorial.git`
 5. Open the file `MarineMicrobiomeAnalysis.ipynb`
+
+LICENSE: CC-BY
